@@ -1,7 +1,9 @@
 # learn
 
 
+to do App is a small project with html, CSS, javaScript languages. With this project you can get acquainted with the structure of these three languages and the bootstrap library
 
+A to-do list app lets you write, organize, and reprioritize your tasks more efficiently. They also let you attach notes, links, and files to a task, and many let you see when someone else has completed a task. In many ways, a good to-do app is the ultimate productivity app
 
 
 
