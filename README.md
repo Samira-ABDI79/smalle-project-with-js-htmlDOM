@@ -1,5 +1,6 @@
 <html>
 <head>
+<base href="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/" />
 </head>
 <body>
 <h1 style="text-align:center;">&#10024;JavaScript Projects You Can Build to Perfect Your Coding Skills&#10024;</h1>
