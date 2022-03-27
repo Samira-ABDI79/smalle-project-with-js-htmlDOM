@@ -79,7 +79,7 @@ You can easily add more features to the game to make it more difficult.
 For example, you could limit the number of guesses or give the player three “lives”. With every wrong guess, they would lose one, and the game would be over when they run out of lives.
 </p>
 <li>Hangman game</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\JavaScript-hangman-game.png" width="400px" height="200px" alt="JavaScript-hangman-game.png" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-hangman-game.png" width="400px" height="200px" alt="JavaScript-hangman-game.png" />
 <p>
 Building a Hangman game is one of the best JavaScript project ideas for beginners who want a bit of a challenge.
 <br />
