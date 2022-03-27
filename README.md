@@ -42,7 +42,7 @@ For more smart tips, check out these tips for choosing the best coding project t
 <br /><br /><br /><br /><br /><br />
 <ol>
 <li>Vanilla JavaScript stopwatch</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
 <p>Coding a JavaScript stopwatch is an easy little project you can build in one day even as a beginner. Your stopwatch needs three buttons for user interaction:</p>
 <pre>
 1:Start
@@ -50,10 +50,10 @@ For more smart tips, check out these tips for choosing the best coding project t
 3:Reset
 </pre>
 <li>JavaScript clock</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\JavaScript-clock-project.png" width="200px" height="200px" alt="JavaScript-clock-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-clock-project.png" width="200px" height="200px" alt="JavaScript-clock-project" />
 <p>Building your own digital clock with JavaScript is a relatively easy small project to practice variables and simple if loops.
 <li>JavaScript calculator</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\JavaScript-calculator-project-for-beginners.png" width="400px" height="200px" alt="JavaScript-calculator-project-for-beginners" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-calculator-project-for-beginners.png" width="400px" height="200px" alt="JavaScript-calculator-project-for-beginners" />
 <p>Coding a good old calculator is excellent practice for your JavaScript skills. Create a clean interface with HTML and CSS and then add different features with JavaScript.
 <br />
 Start with just a few basic operators and buttons for:
@@ -64,7 +64,7 @@ Start with just a few basic operators and buttons for:
 <li>Divisions</li>
 </ul>
 <li>JavaScript drum kit</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\JavaScript-drum-kit-project.png" width="400px" height="200px" alt="JavaScript-drum-kit-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-drum-kit-project.png" width="400px" height="200px" alt="JavaScript-drum-kit-project" />
 <p>If you want to build a JavaScript project that is tons of fun but still allows you to learn quite a bit, you’re going to love this example.
 <br />
 I discovered this JavaScript drum kit a while back, and I fell in love with it instantly. Seriously, it’s such an entertaining and fun project to build, trust me!</p>
