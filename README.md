@@ -69,7 +69,7 @@ Start with just a few basic operators and buttons for:
 <br />
 I discovered this JavaScript drum kit a while back, and I fell in love with it instantly. Seriously, it’s such an entertaining and fun project to build, trust me!</p>
 <li>Guess the Color game</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\JavaScript-RGB-color-guessing-game.png" width="400px" height="200px" alt="JavaScript-RGB-color-guessing-game" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-RGB-color-guessing-game.png" width="400px" height="200px" alt="JavaScript-RGB-color-guessing-game" />
 <p>Coding a color guessing game with JavaScript is quite straightforward:</p><br />
 <p>
 <br />1:You build a game where the player will see a single RGB value for a color.
