@@ -43,7 +43,7 @@ For more smart tips, check out these tips for choosing the best coding project t
 <br /><br /><br /><br /><br /><br />
 <ol>
 <li>Vanilla JavaScript stopwatch</li><br />
-<img src="D:\smalle-project-with-js-htmlDOM\image\Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
+<img src="Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
 <p>Coding a JavaScript stopwatch is an easy little project you can build in one day even as a beginner. Your stopwatch needs three buttons for user interaction:</p>
 <pre>
 1:Start
