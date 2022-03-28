@@ -194,7 +194,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
 <br />
     If you want to pursue front-end web development, this is a must-have skill to add under your belt!</p>
 <li>JavaScript quiz</li>
-<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-quiz" width="400px" height="200px" alt="JavaScript-quiz.png" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-quiz.png" width="400px" height="200px" alt="JavaScript-quiz.png" />
 <p>Everybody loves a good quiz! Luckily, building a small quiz with JavaScript is quite easy – and they can be super helpful.
 <br />
     If you want to make money freelancing, you can build a portfolio website to showcase your projects. Use a quiz on the site to help potential clients find the right services for their problems, for example.
