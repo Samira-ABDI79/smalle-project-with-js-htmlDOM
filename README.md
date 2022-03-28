@@ -143,7 +143,6 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     <br />
     Thus, if you are just getting started, make sure you feel comfortable enough with the language before you start building this game.</p>
 <br /><li>Simon game</li>
-<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-maze-game-project-idea.png" width="400px" height="200px" alt="JavaScript-maze-game-project-idea" />
 <li>Platformer game</li><br />
 <p>This JavaScript project is great for intermediate students who want to practice their model-view-controller skills. Thus, you will learn how to organize your code to build a strong foundation for the project. This is something you definitely want to learn for the future.</p>
 <li>Tip calculator</li>
