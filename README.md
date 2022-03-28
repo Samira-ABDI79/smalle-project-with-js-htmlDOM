@@ -143,7 +143,6 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     <br />
     Thus, if you are just getting started, make sure you feel comfortable enough with the language before you start building this game.</p>
 <br /><li>Simon game</li>
-<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-maze-game-project-idea.png" width="400px" height="200px" alt="JavaScript-maze-game-project-idea" />
 <li>Platformer game</li><br />
 <p>This JavaScript project is great for intermediate students who want to practice their model-view-controller skills. Thus, you will learn how to organize your code to build a strong foundation for the project. This is something you definitely want to learn for the future.</p>
 <li>Tip calculator</li>
@@ -194,7 +193,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
 <br />
     If you want to pursue front-end web development, this is a must-have skill to add under your belt!</p>
 <li>JavaScript quiz</li>
-<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-quiz" width="400px" height="200px" alt="JavaScript-quiz.png" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-quiz.png" width="400px" height="200px" alt="JavaScript-quiz.png" />
 <p>Everybody loves a good quiz! Luckily, building a small quiz with JavaScript is quite easy – and they can be super helpful.
 <br />
     If you want to make money freelancing, you can build a portfolio website to showcase your projects. Use a quiz on the site to help potential clients find the right services for their problems, for example.
@@ -202,7 +201,8 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     Or, if you blog about coding (go you!), you can help your readers find the right resources and articles based on what they want to learn.
     <br />&#127754;
     Simply create a small quiz to determine what their goals are and direct them to tutorials and blog posts to help them get started.</p>
-<li>JavaScript mouseover effect</li>
+<li>JavaScript mouseover effect</li><br />
+    <img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-project-for-beginners-%E2%80%93-Happy-bouncing-balls%20(1).png"  width="400px" height="200px" alt="JavaScript mouseover effect"/>
 <p>Mouseover effects are a routine part of web development with JavaScript – and they are a lot of fun!
 <br />
     A mouseover effect simply means adding interactivity to certain elements and sections of your web page. For instance, in this project you will create an area of happy bouncing balls that expand when you hover your mouse over them.
@@ -223,7 +223,5 @@ Here are a few ideas for additional features for your code editor:</p>
 <li>Add another screen next to your editor where the user can run the code</li>&#127756;
 </ul>
 </ol>
-<progress value="10" max="100" style="width:100%;padding:3px;">
-</progress>
 </body>
 </html>
