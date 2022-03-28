@@ -201,7 +201,8 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     Or, if you blog about coding (go you!), you can help your readers find the right resources and articles based on what they want to learn.
     <br />&#127754;
     Simply create a small quiz to determine what their goals are and direct them to tutorials and blog posts to help them get started.</p>
-<li>JavaScript mouseover effect</li>
+<li>JavaScript mouseover effect</li><br />
+    <img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-project-for-beginners-%E2%80%93-Happy-bouncing-balls%20(1).png"  width="400px" height="200px" alt="JavaScript mouseover effect"/>
 <p>Mouseover effects are a routine part of web development with JavaScript – and they are a lot of fun!
 <br />
     A mouseover effect simply means adding interactivity to certain elements and sections of your web page. For instance, in this project you will create an area of happy bouncing balls that expand when you hover your mouse over them.
