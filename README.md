@@ -1,6 +1,5 @@
 <html>
 <head>
-   
 </head>
 <body style="font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: medium;">
 <h1 style="text-align:center;">&#10024;JavaScript Projects You Can Build to Perfect Your Coding Skills&#10024;</h1>
@@ -224,7 +223,6 @@ Here are a few ideas for additional features for your code editor:</p>
 <li>Add another screen next to your editor where the user can run the code</li>&#127756;
 </ul>
 </ol>
-
 <progress value="10" max="100" style="width:100%;padding:3px;">
 </progress>
 </body>
