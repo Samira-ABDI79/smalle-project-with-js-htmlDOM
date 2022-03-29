@@ -1,30 +1,34 @@
 body {
-    background: black;
+
+    background-color: black;
+    border-color: rgb(187, 26, 160);
+    border-style: inset;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
 }
+.time{
 
-.clock {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    color: #2fc7db;
-    font-size: 60px;
-    font-family: Orbitron;
-    letter-spacing: 7px;
-   
-
-
+    color:rgb(33, 33, 172);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
-.name {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    color: #208d16;
-    font-size: 60px;
-    font-family: Orbitron;
-    letter-spacing: 7px;
-   
+.name{
+    color : rgb(231, 69, 204);
+    font-size: 55px;
+    text-align: center;
+  
+    padding: 100px;
+    padding-top: 60px;
+    border-style: inset;
+    border-color: rgb(255, 0, 98);
+    margin: 100px;
+    border-radius: 80px;
+}
+h1{
 
-
+    color: rgb(200, 27, 235);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
 }
