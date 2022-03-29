@@ -1,7 +1,6 @@
 <html>
 <head>
-   <base href="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/tree/developer/image/" />
-</head>
+   </head>
 <body style="font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: medium;">
 <h1 style="text-align:center;">&#10024;JavaScript Projects You Can Build to Perfect Your Coding Skills&#10024;</h1>
 <p>I know it’s sometimes difficult to find JavaScript project ideas that match your skill level and are fun to build.</p>
@@ -41,7 +40,7 @@ For more smart tips, check out these tips for choosing the best coding project t
 <br /><br /><br /><br /><br /><br />
 <ol >
 <li>Vanilla JavaScript stopwatch</li><br />
-<img src="Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/Vanilla-JavaScript-stopwatch-project.png" width="200px" height="200px" alt="Vanilla JavaScript stopwatch" />
 <p>Coding a JavaScript stopwatch is an easy little project you can build in one day even as a beginner. &#127809;Your stopwatch needs three buttons for user interaction:</p>
 <pre>
 1:Start
@@ -51,11 +50,11 @@ For more smart tips, check out these tips for choosing the best coding project t
 <p>&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;&#127774;</p>
 <li>JavaScript clock</li>
 <br /><br />
-<img src="JavaScript-clock-project.png" width="200px" height="200px" alt="JavaScript-clock-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-clock-project.png" width="200px" height="200px" alt="JavaScript-clock-project" />
 <p>Building your own digital clock with JavaScript is a relatively easy small project to practice variables and simple if loops.
 <li>JavaScript calculator</li>
 <br /><br />
-<img src="JavaScript-calculator-project-for-beginners.png" width="400px" height="200px" alt="JavaScript-calculator-project-for-beginners" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-calculator-project-for-beginners.png" width="400px" height="200px" alt="JavaScript-calculator-project-for-beginners" />
 <p>Coding a good old calculator is excellent practice for your JavaScript skills. Create a clean interface with HTML and CSS and then add different features with JavaScript.
 <br />
 Start with just a few basic operators and buttons for:
