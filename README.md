@@ -65,13 +65,13 @@ Start with just a few basic operators and buttons for:
 <li>Divisions</li>
 </ul>
 <li>JavaScript drum kit</li><br />
-<img src="JavaScript-drum-kit-project.png" width="400px" height="200px" alt="JavaScript-drum-kit-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-drum-kit-project.png" width="400px" height="200px" alt="JavaScript-drum-kit-project" />
 <p>If you want to build a JavaScript project that is tons of fun but still allows you to learn quite a bit, you’re going to love this example.
 <br />
 I discovered this JavaScript drum kit a while back, and I fell in love with it instantly. Seriously, it’s such an entertaining and fun project to build, trust me!</p>
 <li>Guess the Color game</li>
 <br /><br />
-<img src="JavaScript-RGB-color-guessing-game.png" width="400px" height="200px" alt="JavaScript-RGB-color-guessing-game" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-RGB-color-guessing-game.png" width="400px" height="200px" alt="JavaScript-RGB-color-guessing-game" />
 <p>Coding a color guessing game with JavaScript is quite straightforward:</p><br />
 <p>
 <br />
@@ -84,7 +84,7 @@ For example, you could limit the number of guesses or give the player three “l
 </p>
 <li>Hangman game</li>
 <br /><br />
-<img src="JavaScript-hangman-game.png" width="400px" height="200px" alt="JavaScript-hangman-game" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-hangman-game.png" width="400px" height="200px" alt="JavaScript-hangman-game" />
 <p>
 Building a Hangman game is one of the best JavaScript project ideas for beginners who want a bit of a challenge.
 <br />&#127823;
@@ -100,7 +100,7 @@ This beginner JavaScript project will probably take you a bit longer, but it’s
 </p>
 <li>Tic Tac Toe</li>
 <br /><br />
-<img src="Build-your-own-JavaScript-Tic-Tac-Toe-game.png" alt="Build-your-own-JavaScript-Tic-Tac-Toe-game" width="400px" height="200px" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/Build-your-own-JavaScript-Tic-Tac-Toe-game.png" alt="Build-your-own-JavaScript-Tic-Tac-Toe-game" width="400px" height="200px" />
 <p>
 Building a simple Tic Tac Toe game with JavaScript is another excellent project idea you can finish in a single day.
 <br />
@@ -113,7 +113,7 @@ Hence, before you start writing any code, break down the flow of the game into l
 For a simple game like Tic Tac Toe, I find it helpful to draw a small flow chart to visualize the different outcomes of the game. When I can see the flow on paper, it’s easier to start writing actual code.</p>
 <li>Pong game</li>
 <br /><br />
-<img src="JavaScript-pong-game.png" alt="JavaScript-pong-game" width="400px" height="200px" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-pong-game.png" alt="JavaScript-pong-game" width="400px" height="200px" />
 <br /><br />
 Pong was one of my favorite video games back in the day!
 <br />
@@ -132,7 +132,7 @@ Also, you may want to create different difficulty levels for your game. For exam
 Pong is a rather complex project if you are entirely new to JavaScript. I think the most difficult part of this project idea is to make sure the computer doesn’t always win.
 <li>Pairs game</li>
 <br /><br />
-<img src="JavaScript-pairs-game.png" width="400px" height="200px" alt="JavaScript-pairs-game" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-pairs-game.png" width="400px" height="200px" alt="JavaScript-pairs-game" />
 <br /><br />
 <p>Coding a JavaScript memory matching game or pairs game is another fun project you can build for fun (and for your portfolio!).
 <br />
@@ -149,7 +149,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
 <br />
 <li>Maze game</li>
 <br /><br />
-<img src="JavaScript-maze-game-project-idea.png" width="400px" height="200px" alt="JavaScript-maze-game-project-idea" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-maze-game-project-idea.png" width="400px" height="200px" alt="JavaScript-maze-game-project-idea" />
 <br /><br />
 <p>I was a huge fan of drawing my own maze games when I was a kid in the early ’90s. Therefore, learning how to code my own maze with JavaScript was so much fun.
 <br />
@@ -163,7 +163,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
 <p>This JavaScript project is great for intermediate students who want to practice their model-view-controller skills. Thus, you will learn how to organize your code to build a strong foundation for the project. This is something you definitely want to learn for the future.</p>
 <li>Tip calculator</li>
 <br /><br />
-<img src="JavaScript-tip-calculator.png" width="400px" height="200px" alt="JavaScript-tip-calculator" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-tip-calculator.png" width="400px" height="200px" alt="JavaScript-tip-calculator" />
 <br /><br />
 <p>Calculating tips can be tricky sometimes – especially after a long day of coding.
     <br />
@@ -174,7 +174,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     For instance, let’s say you want to travel abroad soon. Find out what’s an appropriate tip level there and add a country selection option to your calculator.</p>
 <li>Palindrome checker</li>
 <br /><br /><br />
-<img src="JavaScript-palindrome-checker.png" width="400" height="200" alt="JavaScript-palindrome-checker" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-palindrome-checker.png" width="400" height="200" alt="JavaScript-palindrome-checker" />
 <br />
 <p>A palindrome is a phrase or a word that reads the same backwards and forwards.&#10083;
 <br />
@@ -201,7 +201,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
         A particularly handy feature would be to enable a drag-and-drop feature for moving to-dos between the different lists and columns.</p>
 <li>JavaScript timeline</li>
 <br /><br />
-<img src="JavaScript-vertical-timeline-project.png" width="400px" height="200px" alt="JavaScript-vertical-timeline-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-vertical-timeline-project.png" width="400px" height="200px" alt="JavaScript-vertical-timeline-project" />
 <br /><br />
 <p>If you want to become a front-end web developer, a custom-made JavaScript timeline can be a great feature for building websites for freelance clients, for instance.
 <br />
@@ -218,7 +218,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     If you want to pursue front-end web development, this is a must-have skill to add under your belt!</p>
 <li>JavaScript quiz</li>
 <br /><br />
-<img src="JavaScript-quiz.png" width="500px" height="250px" alt="JavaScript-quiz.png" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-quiz.png" width="500px" height="250px" alt="JavaScript-quiz.png" />
 <br /><br />
 <p>Everybody loves a good quiz! Luckily, building a small quiz with JavaScript is quite easy – and they can be super helpful.
 <br />
@@ -239,7 +239,7 @@ Pong is a rather complex project if you are entirely new to JavaScript. I think 
     This project will teach you how to pull data from an API and display it dynamically on your web page.</p>
 <li>JavaScript browser code editor</li>
 <br />
-<img src="JavaScript-micro-browser-code-editor-project.png" width="400px" height="200px" alt="JavaScript-micro-browser-code-editor-project" />
+<img src="https://github.com/Samira-ABDI79/smalle-project-with-js-htmlDOM/blob/developer/image/JavaScript-micro-browser-code-editor-project.png" width="400px" height="200px" alt="JavaScript-micro-browser-code-editor-project" />
 <p>Wouldn’t it be cool to code your own mini code editor in JavaScript? I think this is a cool project idea for beginners!
 <br />
 Here are a few ideas for additional features for your code editor:</p>
